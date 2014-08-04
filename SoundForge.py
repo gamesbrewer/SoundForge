@@ -67,7 +67,7 @@ class SoundForge(object):
                     if event.type ==  QUIT:
                         sound_recorder.close()
                         return
-
+                    elif event.type == KEYDOWN:
                         #increase top_note range
                         if event.key == K_s:    
                             if top_note <= len(notes_dictionary)-7:
