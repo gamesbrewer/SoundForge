@@ -9,7 +9,7 @@ from random import *
 import numpy
 from numpy import sqrt, log
 
-from swh import SwhRecorder #http://www.swharden.com/blog/2013-05-09-realtime-fft-audio-visualization-with-python/
+from recorder import SwhRecorder #http://www.swharden.com/blog/2013-05-09-realtime-fft-audio-visualization-with-python/
 from frequency_estimator import freq_from_autocorr as freq_from_autocorr #https://github.com/endolith/waveform-analyzer
 
 class SoundForge(object):
