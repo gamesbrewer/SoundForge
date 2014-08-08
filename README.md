@@ -47,3 +47,4 @@ Initially I wanted to do a Frets on Fire clone or something but in the end I dec
 #How it works
 ==========
 
+Initially I was writing tons of stuff about maths and science and crap so screw that TLDR stuff. How this app works? Download the app, stick a microphone into your pc, and play. To change the note range, press 'A key' to increase the lowest note or 'Z key' to lower it. For the highest note, press 'S key' to increase it or 'X key' to lower it. Thats it.
